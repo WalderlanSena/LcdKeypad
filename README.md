@@ -4,5 +4,5 @@ Biblioteca para utilização de um teclado alfanumérico, somente com botões do
 ## Modulo
 
 <p align="center">
-  <img src="https://http2.mlstatic.com/display-lcd-keypad-shield-16x02-com-teclado-botoes-arduino-D_NQ_NP_126101-MLB20282600190_042015-F.jpg>"
+  <img src="https://http2.mlstatic.com/display-lcd-keypad-shield-16x02-com-teclado-botoes-arduino-D_NQ_NP_126101-MLB20282600190_042015-F.jpg" width="500">
 </p>
