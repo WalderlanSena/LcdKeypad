@@ -1,7 +1,7 @@
-LcdKeypad KEYWORD1  LcdKeypad
+LcdKeypad	KEYWORD1  LcdKeypad
 
-keywordRead KEYWORD2
+keywordRead	KEYWORD2
 
-apresentMenu KEYWORD2
+apresentMenu	KEYWORD2
 
-defaultReset KEYWORD2
+defaultReset	KEYWORD2
