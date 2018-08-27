@@ -1,4 +1,4 @@
-LcdKeypad	KEYWORD1  LcdKeypad
+LcdKeypad	KEYWORD1
 
 keywordRead	KEYWORD2
 
